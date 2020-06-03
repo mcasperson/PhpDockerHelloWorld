@@ -1,0 +1,1 @@
+This is the sample code for the book [ECR, EKS and PHP Docker images: A step by step guide to deploying to Kubernetes in AWS](https://www.amazon.com/ECR-EKS-PHP-Docker-images-ebook/dp/B089G8H6DF/ref=sr_1_2?dchild=1&keywords=matthew+casperson&qid=1591219136&sr=8-2).
