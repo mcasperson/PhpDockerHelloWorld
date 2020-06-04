@@ -1,0 +1,1 @@
+Compress-Archive -Path index.php -DestinationPath beanstalk-app-bundle.zip -Force
